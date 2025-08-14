@@ -1,0 +1,11 @@
+Tendai Moyo, 34, Finance, 68000
+Rutendo Ncube, 28, HR, 54000
+Tatenda Dube, 45, IT, 80000
+Simba Chikore, 31, Marketing, 61000
+Chipo Mpofu, 39, Operations, 72000
+Farai Sibanda, 26, Sales, 50000
+Nyasha Mhlanga, 40, Legal, 75000
+Tariro Ndlovu, 33, Finance, 67000
+Tanaka Mlambo, 29, IT, 59000
+Ruvimbo Hove, 37, HR, 62000
+
